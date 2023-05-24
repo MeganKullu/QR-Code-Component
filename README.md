@@ -1,6 +1,5 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 ## Table of contents
 
@@ -12,7 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -45,26 +43,7 @@ conform to the design given.
 ### What I learned
 
 I learnt how to center a div element and re-inforced my understanding of CSS grid and how to style individual elements.
-To see how you can add code snippets, see below:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-
-## Author
-
-- Website - [Add your name here](https://www.megankullu.tech)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MeganKullu)
-- Twitter - [@yourusername](https://www.twitter.com/megankullu)
+- Website - (https://www.megankullu.tech)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/MeganKullu)
+- Twitter - (https://www.twitter.com/megankullu)
