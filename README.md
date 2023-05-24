@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-
+[View the solution here] (https://megankullu.github.io/QR-Code-Component/)
 ## Table of contents
 
 - [Overview](#overview)
